@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"chara_shanzi0","classId":1,"equips":[2,0,0,3,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"津岛善子","nickname":"夜羽","note":"","profile":"使用暗属性魔法的堕天使，尤其擅长使用精神类伤害的魔法。"},
+{"id":2,"battlerName":"charaz_lizi_1","characterIndex":0,"characterName":"chara_lizi_1","classId":2,"equips":[1,0,0,9,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"樱内梨子","nickname":"梨梨","note":"","profile":"误入天界的人类，能够利用法器使用光属性魔法对友方进行\n治疗和回魔。"},
+{"id":3,"battlerName":"chara_xuecai1","characterIndex":0,"characterName":"chara_xuecai1","classId":3,"equips":[31,0,65,5,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":5,"maxLevel":99,"name":"优木雪菜","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"charaz_jinwutai","characterIndex":0,"characterName":"chara_jinwutai","classId":4,"equips":[31,0,0,5,0],"faceIndex":3,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"平安名堇","nickname":"大王具足虫","note":"","profile":"大王具足虫成精后变成的天使，使用光属性魔法。拥有具足\n虫一般的坚韧，能够抵御攻击、保护友方。"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
