@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"charaz_shanzi_duotianshi","characterIndex":0,"characterName":"chara_shanzi0","classId":1,"equips":[50,0,2,3,0],"faceIndex":2,"faceName":"riyomaserinka","traits":[],"initialLevel":1,"maxLevel":99,"name":"善子","nickname":"夜羽","note":"","profile":"使用暗属性魔法的堕天使，尤其擅长使用精神类伤害的魔法。"},
+{"id":1,"battlerName":"charaz_shanzi_duotianshi","characterIndex":0,"characterName":"chara_shanzi0","classId":1,"equips":[50,0,2,3,0],"faceIndex":2,"faceName":"riyomaserinka","traits":[],"initialLevel":1,"maxLevel":99,"name":"善子","nickname":"夜羽","note":"","profile":"使用暗属性魔法的堕天使，尤其擅长使用干扰类伤害的魔法。"},
 {"id":2,"battlerName":"charaz_lizi_1","characterIndex":0,"characterName":"chara_lizi_1","classId":2,"equips":[51,0,3,0,0],"faceIndex":1,"faceName":"riyomaserinka","traits":[],"initialLevel":1,"maxLevel":99,"name":"梨子","nickname":"梨梨","note":"","profile":"误入天界的人类，能够利用法器使用光属性魔法对友方进行\n治疗和回魔。"},
 {"id":3,"battlerName":"chara_xuecai1","characterIndex":0,"characterName":"chara_xuecai1","classId":3,"equips":[31,0,0,0,0],"faceIndex":4,"faceName":"riyomaserinka","traits":[],"initialLevel":5,"maxLevel":99,"name":"雪菜","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"charaz_jinwutai","characterIndex":0,"characterName":"chara_jinwutai","classId":4,"equips":[52,27,4,73,0],"faceIndex":3,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"堇","nickname":"大王具足虫","note":"","profile":"大王具足虫成精后变成的天使，使用光属性魔法。拥有具足\n虫一般的坚韧，能够抵御攻击、保护友方。"},
